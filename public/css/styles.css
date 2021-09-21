@@ -1,0 +1,45 @@
+<style>
+  /* body {
+    background-color: lightblue;
+  } */
+  h1 {
+    font-size: 30px;
+    text-align: center;
+  }
+  h2 {
+    font-size: 20px;
+    margin-top: 10px;
+  }
+  h3 {
+    font-size: 20px;
+  }
+  h6 {
+    font-size: 15px;
+    text-align: center;
+  }
+  address {
+    display: contents;
+    font-style: italic;
+  }
+  .center-image
+   {
+    display: block;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 320px;
+  }
+
+  .main-box {
+    /* display: block;
+    margin-left: auto;
+    margin-right: auto; */
+    margin:auto;
+    width: 75%;
+    width: 1200px;
+    height: 950px;
+    padding: 25px;
+    border: 5px solid black;
+  }
+</style>
