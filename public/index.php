@@ -19,7 +19,7 @@ function relocate_linkedin()
 
 <body>
   <main>
-    <div class="main-box">
+    <div class="w3-container w3-card">
       <h1>Mauro Vargas Jr - PHP Developer</h1>
         <div class="card bg-light text-dark">
           <div class="card-body">
@@ -37,7 +37,7 @@ function relocate_linkedin()
       Email: <a href="mailto:maurovargas7725@gmail.com">maurovargas7725@gmail.com</a><br>
       Resident Location: Denver CO USA<br>
       </address>
-      <img src="professional_picture.jpg" alt = "Mauro's Profile" class="center-image" >
+      <img src="images/professional_picture.jpg" alt = "Mauro's Profile" class="center-image" >
       <h3>Personal Projects</h3>
       <table class="table table-hover ">
         <thead class="thead-dark">
