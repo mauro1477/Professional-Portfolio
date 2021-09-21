@@ -69,34 +69,4 @@ function relocate_linkedin()
           </tr>
         </tbody>
     </table>
-    <div class = "row">
-      <div class = "col-sm">
-        <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample1" aria-expanded="false" aria-controls="collapseExample1">
-          Countries travelled
-        </button>
-        <div class="collapse" id="collapseExample1">
-          <div class="card card-body">
-            <ol>
-              <li>Mexico</li>
-              <li>Japan</li>
-              <li>South Korea</li>
-              <li>Thailand</li>
-            <ol>
-          </div>
-        </div>
-      </div>
-      <div class = "col-sm">
-        <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample2" aria-expanded="false" aria-controls="collapseExample2">
-          Interesting Facts
-        </button>
-        <div class="collapse" id="collapseExample2">
-          <div class="card card-body">
-            <li>Born on leap year</li>
-            <li>Love to Box</li>
-            <li>Served in the United States Marines</li>
-          </div>
-        </div>
-      </div>
-    </div>
-    </div>
 <?php require_once('footer.php'); ?>
